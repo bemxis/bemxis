@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="50%" src="ttps://github.com/zuedev/zuedev/raw/main/gh-readme-header.png" alt="Hello, World! I'm zuedev." />
+<img width="50%" src="https://github.com/zuedev/zuedev/raw/main/gh-readme-header.png" alt="Hello, World! I'm zuedev." />
 
 <br/>
 
